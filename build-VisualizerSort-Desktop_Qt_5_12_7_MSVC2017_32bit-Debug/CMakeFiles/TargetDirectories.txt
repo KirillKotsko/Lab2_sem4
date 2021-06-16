@@ -1,0 +1,4 @@
+D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug/CMakeFiles/VisualizerSort.dir
+D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug/CMakeFiles/edit_cache.dir
+D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug/CMakeFiles/VisualizerSort_autogen.dir

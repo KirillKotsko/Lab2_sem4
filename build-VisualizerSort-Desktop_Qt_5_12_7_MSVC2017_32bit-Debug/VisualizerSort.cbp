@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="VisualizerSort"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Qt\;CMake Files\Qt\Qt5.12.7\;CMake Files\Qt\Qt5.12.7\5.12.7\;CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\;CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\;CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\;CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5\;CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Widgets\;CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\;CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Core\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v all"/>
+					<CompileFile command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v clean"/>
+					<DistClean command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v clean"/>
+					<DistClean command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VisualizerSort">
+				<Option output="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug/VisualizerSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug"/>
+					<Add directory="D:/c++/Semester 4/Laboratorni2/VisualizerSort"/>
+					<Add directory="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug/VisualizerSort_autogen/include"/>
+					<Add directory="C:/Qt/Qt5.12.7/5.12.7/msvc2017/include"/>
+					<Add directory="C:/Qt/Qt5.12.7/5.12.7/msvc2017/include/QtWidgets"/>
+					<Add directory="C:/Qt/Qt5.12.7/5.12.7/msvc2017/include/QtGui"/>
+					<Add directory="C:/Qt/Qt5.12.7/5.12.7/msvc2017/include/QtANGLE"/>
+					<Add directory="C:/Qt/Qt5.12.7/5.12.7/msvc2017/include/QtCore"/>
+					<Add directory="C:/Qt/Qt5.12.7/5.12.7/msvc2017/./mkspecs/win32-msvc"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v VisualizerSort"/>
+					<CompileFile command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v clean"/>
+					<DistClean command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VisualizerSort/fast">
+				<Option output="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug/VisualizerSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug"/>
+					<Add directory="D:/c++/Semester 4/Laboratorni2/VisualizerSort"/>
+					<Add directory="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug/VisualizerSort_autogen/include"/>
+					<Add directory="C:/Qt/Qt5.12.7/5.12.7/msvc2017/include"/>
+					<Add directory="C:/Qt/Qt5.12.7/5.12.7/msvc2017/include/QtWidgets"/>
+					<Add directory="C:/Qt/Qt5.12.7/5.12.7/msvc2017/include/QtGui"/>
+					<Add directory="C:/Qt/Qt5.12.7/5.12.7/msvc2017/include/QtANGLE"/>
+					<Add directory="C:/Qt/Qt5.12.7/5.12.7/msvc2017/include/QtCore"/>
+					<Add directory="C:/Qt/Qt5.12.7/5.12.7/msvc2017/./mkspecs/win32-msvc"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v VisualizerSort/fast"/>
+					<CompileFile command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v clean"/>
+					<DistClean command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v clean"/>
+					<DistClean command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VisualizerSort_autogen">
+				<Option working_dir="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v VisualizerSort_autogen"/>
+					<CompileFile command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v clean"/>
+					<DistClean command="C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/MementoSorting.h">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/drawwidget.cpp">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/drawwidget.h">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/main.cpp">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/mainwidget.cpp">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/mainwidget.h">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/mainwidget.ui">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/sorting.cpp">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/sorting.h">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/sorts.cpp">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/unit_test_framework.h">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/build-VisualizerSort-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug/VisualizerSort_autogen/mocs_compilation.cpp">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/Qt/Qt5.12.7/5.12.7/msvc2017/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.7\5.12.7\msvc2017\lib\cmake\Qt5Core\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
