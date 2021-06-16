@@ -6,9 +6,11 @@ D:/c++/Semester 4/Laboratorni2/VisualizerSort/drawwidget.h
  mmc:Q_OBJECT
 D:/c++/Semester 4/Laboratorni2/VisualizerSort/sorting.h
 D:/c++/Semester 4/Laboratorni2/VisualizerSort/unit_test_framework.h
-D:/c++/Semester 4/Laboratorni2/VisualizerSort/drawwidget.cpp
-D:/c++/Semester 4/Laboratorni2/VisualizerSort/main.cpp
+D:/c++/Semester 4/Laboratorni2/VisualizerSort/test.h
 D:/c++/Semester 4/Laboratorni2/VisualizerSort/mainwidget.cpp
  uic:ui_mainwidget.h
+D:/c++/Semester 4/Laboratorni2/VisualizerSort/main.cpp
+D:/c++/Semester 4/Laboratorni2/VisualizerSort/drawwidget.cpp
 D:/c++/Semester 4/Laboratorni2/VisualizerSort/sorting.cpp
 D:/c++/Semester 4/Laboratorni2/VisualizerSort/sorts.cpp
+D:/c++/Semester 4/Laboratorni2/VisualizerSort/test.cpp

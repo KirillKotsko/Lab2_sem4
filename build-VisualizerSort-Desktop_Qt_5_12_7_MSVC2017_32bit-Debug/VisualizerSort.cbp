@@ -146,6 +146,12 @@
 		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/sorts.cpp">
 			<Option target="VisualizerSort"/>
 		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/test.cpp">
+			<Option target="VisualizerSort"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/test.h">
+			<Option target="VisualizerSort"/>
+		</Unit>
 		<Unit filename="D:/c++/Semester 4/Laboratorni2/VisualizerSort/unit_test_framework.h">
 			<Option target="VisualizerSort"/>
 		</Unit>

@@ -99,14 +99,14 @@ public:
     void retranslateUi(QWidget *MainWidget)
     {
         MainWidget->setWindowTitle(QApplication::translate("MainWidget", "Visual Sort", nullptr));
-        cbx_sorts->setItemText(0, QApplication::translate("MainWidget", "\320\237\321\203\320\267\321\213\321\200\321\221\320\272", nullptr));
+        cbx_sorts->setItemText(0, QApplication::translate("MainWidget", "\320\221\321\203\320\273\321\214\320\261\320\260\321\210\320\272\320\276\320\262\320\260", nullptr));
         cbx_sorts->setItemText(1, QApplication::translate("MainWidget", "\320\222\321\201\321\202\320\260\320\262\320\272\320\260\320\274\320\270", nullptr));
-        cbx_sorts->setItemText(2, QApplication::translate("MainWidget", "\320\222\321\213\320\261\320\276\321\200\320\276\320\274", nullptr));
+        cbx_sorts->setItemText(2, QApplication::translate("MainWidget", "\320\222\320\270\320\261\320\276\321\200\320\276\320\274", nullptr));
 
         lbl_el_time->setText(QApplication::translate("MainWidget", "TextLabel", nullptr));
-        btn_shuffle->setText(QApplication::translate("MainWidget", "\320\237\320\265\321\200\320\265\320\274\320\265\321\210\320\260\321\202\321\214", nullptr));
+        btn_shuffle->setText(QApplication::translate("MainWidget", "\320\237\320\265\321\200\320\265\321\202\320\260\321\201\321\203\320\262\320\260\321\202\320\270", nullptr));
         btn_stop->setText(QApplication::translate("MainWidget", "\320\241\321\202\320\276\320\277", nullptr));
-        btn_sort->setText(QApplication::translate("MainWidget", "\320\241\320\276\321\200\321\202\320\270\321\200\320\276\320\262\320\260\321\202\321\214", nullptr));
+        btn_sort->setText(QApplication::translate("MainWidget", "\320\241\320\276\321\200\321\202\321\203\320\262\320\260\321\202\320\270", nullptr));
     } // retranslateUi
 
 };

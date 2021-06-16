@@ -86,6 +86,11 @@
 			"EWIEGA46WW/moc_sorting.cpp"
 		],
 		[
+			"D:/c++/Semester 4/Laboratorni2/VisualizerSort/test.h",
+			"MU",
+			"EWIEGA46WW/moc_test.cpp"
+		],
+		[
 			"D:/c++/Semester 4/Laboratorni2/VisualizerSort/unit_test_framework.h",
 			"MU",
 			"EWIEGA46WW/moc_unit_test_framework.cpp"
@@ -134,7 +139,8 @@
 		[ "D:/c++/Semester 4/Laboratorni2/VisualizerSort/main.cpp", "MU" ],
 		[ "D:/c++/Semester 4/Laboratorni2/VisualizerSort/mainwidget.cpp", "MU" ],
 		[ "D:/c++/Semester 4/Laboratorni2/VisualizerSort/sorting.cpp", "MU" ],
-		[ "D:/c++/Semester 4/Laboratorni2/VisualizerSort/sorts.cpp", "MU" ]
+		[ "D:/c++/Semester 4/Laboratorni2/VisualizerSort/sorts.cpp", "MU" ],
+		[ "D:/c++/Semester 4/Laboratorni2/VisualizerSort/test.cpp", "MU" ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

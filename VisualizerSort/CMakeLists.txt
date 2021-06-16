@@ -39,6 +39,8 @@ if(ANDROID)
     sorts.cpp
     unit_test_framework.h
     mementosorting.h
+    test.h
+    test.cpp
   )
 else()
   add_executable(VisualizerSort
@@ -53,6 +55,8 @@ else()
     sorts.cpp
     unit_test_framework.h
     mementosorting.h
+    test.h
+    test.cpp
   )
 endif()
 

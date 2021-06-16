@@ -109,6 +109,15 @@ build CMakeFiles\VisualizerSort.dir\sorts.cpp.obj: CXX_COMPILER__VisualizerSort_
   TARGET_COMPILE_PDB = CMakeFiles\VisualizerSort.dir\
   TARGET_PDB = VisualizerSort.pdb
 
+build CMakeFiles\VisualizerSort.dir\test.cpp.obj: CXX_COMPILER__VisualizerSort_Debug D$:\c++\Semester$ 4\Laboratorni2\VisualizerSort\test.cpp || cmake_object_order_depends_target_VisualizerSort
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  INCLUDES = -I. -I"D:\c++\Semester 4\Laboratorni2\VisualizerSort" -IVisualizerSort_autogen\include -IC:\Qt\Qt5.12.7\5.12.7\msvc2017\include -IC:\Qt\Qt5.12.7\5.12.7\msvc2017\include\QtWidgets -IC:\Qt\Qt5.12.7\5.12.7\msvc2017\include\QtGui -IC:\Qt\Qt5.12.7\5.12.7\msvc2017\include\QtANGLE -IC:\Qt\Qt5.12.7\5.12.7\msvc2017\include\QtCore -IC:\Qt\Qt5.12.7\5.12.7\msvc2017\.\mkspecs\win32-msvc
+  OBJECT_DIR = CMakeFiles\VisualizerSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\VisualizerSort.dir
+  TARGET_COMPILE_PDB = CMakeFiles\VisualizerSort.dir\
+  TARGET_PDB = VisualizerSort.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target VisualizerSort
@@ -117,7 +126,7 @@ build CMakeFiles\VisualizerSort.dir\sorts.cpp.obj: CXX_COMPILER__VisualizerSort_
 #############################################
 # Link the executable VisualizerSort.exe
 
-build VisualizerSort.exe: CXX_EXECUTABLE_LINKER__VisualizerSort_Debug CMakeFiles\VisualizerSort.dir\VisualizerSort_autogen\mocs_compilation.cpp.obj CMakeFiles\VisualizerSort.dir\main.cpp.obj CMakeFiles\VisualizerSort.dir\mainwidget.cpp.obj CMakeFiles\VisualizerSort.dir\drawwidget.cpp.obj CMakeFiles\VisualizerSort.dir\sorting.cpp.obj CMakeFiles\VisualizerSort.dir\sorts.cpp.obj | C$:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Widgetsd.lib C$:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Guid.lib C$:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Cored.lib || VisualizerSort_autogen
+build VisualizerSort.exe: CXX_EXECUTABLE_LINKER__VisualizerSort_Debug CMakeFiles\VisualizerSort.dir\VisualizerSort_autogen\mocs_compilation.cpp.obj CMakeFiles\VisualizerSort.dir\main.cpp.obj CMakeFiles\VisualizerSort.dir\mainwidget.cpp.obj CMakeFiles\VisualizerSort.dir\drawwidget.cpp.obj CMakeFiles\VisualizerSort.dir\sorting.cpp.obj CMakeFiles\VisualizerSort.dir\sorts.cpp.obj CMakeFiles\VisualizerSort.dir\test.cpp.obj | C$:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Widgetsd.lib C$:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Guid.lib C$:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Cored.lib || VisualizerSort_autogen
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
   LINK_FLAGS = /machine:X86 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = C:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Widgetsd.lib  C:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Guid.lib  C:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Cored.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib

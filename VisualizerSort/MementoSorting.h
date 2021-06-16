@@ -1,3 +1,8 @@
+/**
+*   @file mementosorting.h
+*	@author Kirill Kotsko
+*	@version 1.1
+*/
 #ifndef MEMENTOSORTING_H
 #define MEMENTOSORTING_H
 #include <vector>

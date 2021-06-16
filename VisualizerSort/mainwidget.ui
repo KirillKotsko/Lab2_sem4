@@ -27,7 +27,7 @@
   </property>
   <layout class="QHBoxLayout" name="horizontalLayout">
    <item>
-    <layout class="QGridLayout" name="gridLayout" columnstretch="0,0,0,0,0,0,0,0,0,0,0" columnminimumwidth="0,0,0,0,0,0,0,0,0,0,0">
+    <layout class="QGridLayout" name="gridLayout" columnstretch="0,0,0,0,0,0,0" columnminimumwidth="0,0,0,0,0,0,0">
      <property name="sizeConstraint">
       <enum>QLayout::SetMaximumSize</enum>
      </property>
@@ -44,7 +44,7 @@
        </property>
        <item>
         <property name="text">
-         <string>Пузырёк</string>
+         <string>Бульбашкова</string>
         </property>
        </item>
        <item>
@@ -54,7 +54,7 @@
        </item>
        <item>
         <property name="text">
-         <string>Выбором</string>
+         <string>Вибором</string>
         </property>
        </item>
       </widget>
@@ -81,7 +81,7 @@
         </font>
        </property>
        <property name="text">
-        <string>Перемешать</string>
+        <string>Перетасувати</string>
        </property>
       </widget>
      </item>
@@ -110,7 +110,7 @@
         </font>
        </property>
        <property name="text">
-        <string>Сортировать</string>
+        <string>Сортувати</string>
        </property>
       </widget>
      </item>
